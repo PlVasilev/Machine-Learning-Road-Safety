@@ -1,7 +1,8 @@
 # Machine-Learning-Road-Safety
+
 ## ML Classification Modeling with Sklearn
 
-#### The goal of our work is to try to **separate the road accident by their severity using a ML algorithm**, so that it will **remove that human bias**.
+#### The goal of our work is to try to separate the road accident by their severity using a ML algorithm, so that it will remove that human bias and hopefully predict corectly at least every 4 of 5 Accidents.
 
 ### Content:
 
